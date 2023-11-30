@@ -24,8 +24,8 @@ const memory = new BufferMemory({
     }),
   });
 
-const Open = "Your_OpenAI_API_Key";
-const Serp = "Your_Serp_API_Key";
+const Open = "Enter_Your_OpenAI_API_Key";
+const Serp = "Enter_Your_Serp_API_Key";
 
 const tools = [new Calculator(), new SerpAPI(Serp), new DynamicTool({
     name: "memory1",
