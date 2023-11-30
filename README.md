@@ -3,10 +3,13 @@
 ## prerequisite
 1 : Node.js installed
     Link : https://nodejs.org/en/download
+    
 2 : Docker and Docker Desktop Installed
     Link : https://docs.docker.com/get-docker/
+    
 3 : OpenAI_API_KEY Require
     Link : https://platform.openai.com/api-keys
+    
 4 : SerpAPI_KEY Require
     Link : https://serpapi.com/manage-api-key
 
