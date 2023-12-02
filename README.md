@@ -1,4 +1,5 @@
 ﻿# ConversationGPT_Using_LangchainJS
+ A Node.js-based chatbot, powered by OpenAI's GPT-3.5-turbo and integrated with Langchain, excels in real-time data delivery and context-rich conversations with an added memory function for enhanced user engagement.
 
 ## prerequisite
 1 : Node.js installed
