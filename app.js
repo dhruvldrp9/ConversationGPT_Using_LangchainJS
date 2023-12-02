@@ -36,7 +36,7 @@ const tools = [new Calculator(), new SerpAPI(Serp), new DynamicTool({
       return { text };
     }
 })];
-const chat = new ChatOpenAI({ openAIApiKey: Open,modelName: "gpt-4", temperature: 0 });
+const chat = new ChatOpenAI({ openAIApiKey: Open,modelName: "gpt-3.5-turbo", temperature: 0 });
 const outputParser = new StringOutputParser();
 
 
